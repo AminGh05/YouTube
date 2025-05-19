@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CssDialectMappings">
-    <file url="file://$PROJECT_DIR$/src/main/resources/org/project/youtube/Client/profile-view.css" dialect="CLASSIC" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/org/project/youtube/Client/short-player.css" dialect="JavaFX" />
-  </component>
-</project>
