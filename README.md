@@ -56,3 +56,7 @@ java Main
 - https://refactoring.guru/design-patterns
 - https://www.geeksforgeeks.org
 - https://sqlbolt.com/
+
+## Report
+
+You can gain more info about the project in [this link](REPORT.md)
